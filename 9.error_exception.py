@@ -33,6 +33,18 @@ try:
     assert num%2==0
     print("the number is even")
     assert num<20
+ 
+#user defined exception
+
+#declaring a class with under a super class RuntimeError 
+class Networkerror(RuntimeError):
+    def __init__(self,arg):
+        self.args=arg
+#call the Networkerror through raise statement
+try:
+    raise Networkerror("Its a network error")
+except Networkerror as e:
+    print(''.join(str(items) for items in list(e.args)))#printing the run time error
     print("the given number is greater than 20")
 except AssertionError:
     print("Please enter even number")
