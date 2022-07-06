@@ -4,7 +4,7 @@
 <body>
 <h1>Python Notes</h1>
 <h4>I upload basic python codes for each concept in python .
-reffer the code to understand concepts better.
+Reffer the code to understand concepts better.
 I will constant try to make changes in  code with my experience.<h4>
 
 <h2>list of concepts</h2>
