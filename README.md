@@ -8,8 +8,8 @@ Reffer the code to understand concepts better.
 I will constant try to make changes in  code with my experience.<h4>
 
 <h2>list of concepts</h2>
-<h3><a href="https://github.com/asaikiran1999/python/blob/main/python%20concepts/python_snap.ipynb">1.python snap</a></h3>
-<h3><a href="https://github.com/asaikiran1999/python/blob/main/python%20concepts/LIST.ipynb">2.Lists in Python</a></h3>
-<h3><a href="https://github.com/asaikiran1999/python/blob/main/dictionaryc%2Cset_and_tuple_.ipynb">3.Dictionary,Sets and Tuples in Python</a></h3>
+<h5><a href="https://github.com/asaikiran1999/python/blob/main/python%20concepts/python_snap.ipynb">1.python snap</a></h5>
+<h5><a href="https://github.com/asaikiran1999/python/blob/main/python%20concepts/LIST.ipynb">2.Lists in Python</a></h5>
+<h5><a href="https://github.com/asaikiran1999/python/blob/main/dictionaryc%2Cset_and_tuple_.ipynb">3.Dictionary,Sets and Tuples in Python</a></h5>
  </body>
  </html>
