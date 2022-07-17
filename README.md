@@ -7,7 +7,7 @@
 Reffer the code to understand concepts better.
 I will constant try to make changes in  code with my experience.<h4>
 
-<h2>list of concepts</h2>
+<h2>Core concepts in python</h2>
 <h5><a href="https://github.com/asaikiran1999/python/blob/main/python%20concepts/1.Python_Intro.ipynb">1.python Intro</a></h5>
 <h5><a href="https://github.com/asaikiran1999/python/blob/main/python%20concepts/Strings_in_python.ipynb">2.Strings in Python</a></h5>
 <h5><a href="https://github.com/asaikiran1999/python/blob/main/python%20concepts/LIST.ipynb">3.Lists in Python</a></h5>
