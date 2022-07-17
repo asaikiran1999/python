@@ -16,6 +16,6 @@ I will constant try to make changes in  code with my experience.<h4>
 <h5><a href="https://github.com/asaikiran1999/python/blob/main/python%20concepts/Conditioning_in_Python.ipynb">6.Conditioning in Python</a></h5>
 <h5><a href="https://github.com/asaikiran1999/python/blob/main/python%20concepts/7.forloop.ipynb">7.forloop in Python</a></h5>
 <h5><a href="https://github.com/asaikiran1999/python/blob/main/python%20concepts/8.whileloop.ipynb">8.while loop in Python</a></h5>
-<h5><a href="https://github.com/asaikiran1999/python/blob/main/python%20concepts/8.whileloop.ipynb">9.functions in Python</a></h5>
+<h5><a href="https://github.com/asaikiran1999/python/blob/main/python%20concepts/9.function.ipynb">9.functions in Python</a></h5>
  </body>
  </html>
