@@ -2,7 +2,7 @@
  <head>
   </head>
 <body>
-<h1>Python Notes</h1>
+<h1 style="background-color:DodgerBlue;">Python Notes</h1>
 <h4>I upload basic python codes for each concept in python .
 Reffer the code to understand concepts better.
 I will constant try to make changes in  code with my experience.<h4>
