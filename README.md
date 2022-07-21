@@ -5,7 +5,7 @@
 <h1 style="background-color:DodgerBlue;">Python Notes</h1>
 <h4>I upload basic python codes for each concept in python .
 Reffer the code to understand concepts better.
-I will constant try to make changes in  code with my experience.<h4>
+I will constantly try to make changes in  code with my experience.<h4>
 
 <h2>Core concepts in python</h2>
 <h5><a href="https://github.com/asaikiran1999/python/blob/main/python%20concepts/1.Python_Intro.ipynb">1.python Intro</a></h5>
